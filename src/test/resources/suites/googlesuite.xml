@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="MyTestSuite">
-    <test name="testGoogleSearch">
+<suite name="Google test suite">
+    <test name="test Google search">
         <classes>
             <class name="com.libertex.aqa.mixqatask.GoogleSearchTest">
             </class>

@@ -1,0 +1,1 @@
+{"uuid":"f9923224-d870-4430-8b66-2aef01bbb2e2","name":"com.libertex.aqa.mixqatask.GoogleSearchTest","children":["b6bbedc6-7d39-40cc-b18f-74b17fefb217"],"befores":[{"name":"openGoogle","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1695309828315,"stop":1695309833949}],"afters":[],"start":1695309828229,"stop":1695309835945}
